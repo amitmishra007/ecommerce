@@ -1,0 +1,19 @@
+.topbar {
+  display: flex;
+  height: 48px;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+  .left-menu {
+    display: flex;
+
+    div {
+      padding: 0.3rem;
+    }
+  }
+  .right-menu {
+    display: flex;
+    div {
+      padding: 0.3rem;
+    }
+  }
+}
